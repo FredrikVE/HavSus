@@ -134,4 +134,3 @@ Visualisering av de viktigste funksjonalitetene i applikasjonen ligger i [MODELL
 <b>NRK. (u å).</b> <i>Yr Warning Icons.</i><br>
      Hentet April 2024 fra NRK - GitHub:<br>
      https://nrkno.github.io/yr-warning-icons/<br><br>
-# HavSus
