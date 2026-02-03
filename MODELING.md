@@ -30,7 +30,7 @@ De heltrukne linjene representerer avhengighetene mellom komponentene, men de st
  
 Appen følger en MVVM-arkitektur det data-laget og dommenelaget utgjør Modellen, mens ViewModel og View til sammen representerer UI-laget.
 
-![Havsus - arkitekturoverikt](https://media.github.uio.no/user/8418/files/0c321720-e44e-4584-974c-5adcb28f9b41)
+![Havsus - arkitekturoverikt](![Forenklet arkitekturskisse](bilder_modellering/Forenklert%20arkitekturskisse.png)
 
 
 For mer detaljert innsikt i klassenes innhold og avhengigheter se klassediagrammet «utvidet arkitekturoversikt» i neste avsnitt.
@@ -55,7 +55,7 @@ Ettersom dette diagrammet er såpas inngående og stort, har vi måttet gjøre n
 
 For å avgrense tegningens kompleksitet har vi også kun tegnet inn de mest sentrale @Composable-metodene som representerer de viktigste skjermene og UI-mekanikken i appen.
 
-![Havsus - Utvidet arkitekturtegning](https://media.github.uio.no/user/8418/files/c546ca15-b2cf-4349-a329-fa7e7f8f02a4)
+![Havsus – Utvidet arkitekturtegning](bilder_modellering/Havsus%20-%20Utvidet%20arkitekturtegning.png)
 
 
 Hvis leser har lyst til å se en enda større versjon av tegningen, er den tilgjengelig i større format her: 
@@ -68,7 +68,8 @@ Hvis leser har lyst til å se en enda større versjon av tegningen, er den tilgj
 <br>
 
 
-![usecase_diagram](https://media.github.uio.no/user/9349/files/0521a314-81f9-4e0c-9b86-31e6306d807f)
+![Use case-diagram](bilder_modellering/usecase_diagram.png)
+
 
 <br>
 
