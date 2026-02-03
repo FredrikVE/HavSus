@@ -87,7 +87,7 @@ For å ha et enda tydeligere skille mellom businesslogikk og annen logikk, organ
 ### Forenklet arkitekturtegning over appen
 
 
-![Havsus - arkitekturoverikt](https://media.github.uio.no/user/8418/files/e6d40645-d3f6-4fe4-ac82-3921713fef30)
+![Havsus - arkitekturoverikt](![Forenklet arkitekturskisse](bilder_modellering/Forenklert%20arkitekturskisse.png)
 
 Trukk på denne linken for å se en mer utvidet versjon av arkitekturtegningen
 [Utvidet arkitekturtegning](https://github.uio.no/IN2000-V24/team-32/blob/main/bilder_modellering/Havsus%20-%20Utvidet%20arkitekturtegning.png)
