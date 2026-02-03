@@ -128,7 +128,7 @@ Hvis leser har lyst til å se en enda større versjon av tegningen, er den tilgj
 <h2> 4) Klassediagram use case - Se værvarsel for badeplass </h2>
 <br>
 
-![klassediagram_usercase_seværBad](https://media.github.uio.no/user/9349/files/70f11996-4be9-4cec-9c40-580df2f63233)
+![klassediagram_usercase_seværBad](bilder_modellering/klassediagram.png)
 
 
 
@@ -137,7 +137,7 @@ Dette aktivitetsdiagrammet er ment å supplere beskrivelsen og andre visualiseri
 <br>
 <br>
 
-![aktivd_seVærBad_dark-2](https://media.github.uio.no/user/9349/files/31c245fb-c119-491e-bde7-d1af2f9e23c5)
+![aktivd_seVærBad_dark-2](bilder_modellering/aktivd_seVærBad_dark-2.png)
 <br>
 <br>
 
@@ -146,7 +146,7 @@ Dette aktivitetsdiagrammet er ment å supplere beskrivelsen og andre visualiseri
 <h3> 6.1 Use case - finn badeplasser </h3>
 <br>
 
-![sekvd_finnBad](https://media.github.uio.no/user/9349/files/14ce4b62-8941-4d5f-85ad-3f4511b0a6f8)
+![sekvd_finnBad](bilder_modellering/sekvd_finnBad.png)
 
 <br>
 <h4>Tekstlig beskrivelse av sekvensdiagrammet for use caset “Finn badeplasser”</h4> 
@@ -176,7 +176,7 @@ I tillegg er det verdt å nevne at det ved forsøk på å hente badeplasser et s
 
 <h3> 6.2 Use case - se værvarsel for badeplass </h3>
 
-![sekvd_seVærBad](https://media.github.uio.no/user/9349/files/a62350cd-ff30-47fb-9dd1-c7298b8b340c)
+![sekvd_seVærBad](bilder_modellering/sekvd_seVærBad.png)
 
 <br>
 <b>Tekstlig beskrivelse av sekvensdiagrammet for use caset “Se værvarsel for badeplass”</b>
