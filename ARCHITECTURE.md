@@ -227,7 +227,7 @@ I forbindelse med bestemmelsen av API-nivå testet vi applikasjonen på ulike AP
 
 <b>Oversikt over kompabilitet for ulike OS og API-nivåer</b>
 
-![API-nivåer Android](bilder_modellering/API_nivåer_android.png)
+![API-nivåer Android](bilder_modellering/API_nivaaer_android.png)
 Dette bildet, med statistikk over API-nivåene, genereres av Android Studio ved opprettelse av ny emulator.
 
 <br>
