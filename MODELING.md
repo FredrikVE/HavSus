@@ -59,7 +59,8 @@ For å avgrense tegningens kompleksitet har vi også kun tegnet inn de mest sent
 
 
 Hvis leser har lyst til å se en enda større versjon av tegningen, er den tilgjengelig i større format her: 
-[Utvidet arkitekturtegning](https://github.uio.no/IN2000-V24/team-32/blob/main/bilder_modellering/Havsus%20-%20Utvidet%20arkitekturtegning.png)
+[Utvidet arkitekturtegning](https://github.com/FredrikVE/HavSus/blob/main/bilder_modellering/Havsus%20-%20Utvidet%20arkitekturtegning.png)
+
 
 
 <br>
