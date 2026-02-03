@@ -90,7 +90,7 @@ For å ha et enda tydeligere skille mellom businesslogikk og annen logikk, organ
 ![Havsus - arkitekturoverikt](![Forenklet arkitekturskisse](bilder_modellering/Forenklert%20arkitekturskisse.png)
 
 Trukk på denne linken for å se en mer utvidet versjon av arkitekturtegningen
-[Utvidet arkitekturtegning](https://github.uio.no/IN2000-V24/team-32/blob/main/bilder_modellering/Havsus%20-%20Utvidet%20arkitekturtegning.png)
+[Utvidet arkitekturtegning](https://github.com/FredrikVE/HavSus/blob/main/bilder_modellering/Havsus%20-%20Utvidet%20arkitekturtegning.png)
 
 
 <br><br>
@@ -227,7 +227,7 @@ I forbindelse med bestemmelsen av API-nivå testet vi applikasjonen på ulike AP
 
 <b>Oversikt over kompabilitet for ulike OS og API-nivåer</b>
 
-![Screenshot 2024-05-16 at 10 47 37](https://media.github.uio.no/user/9349/files/3771a39e-165e-4e57-af50-7dfb2c58704d)
+![API-nivåer Android](bilder_modellering/API_nivåer_android.png)
 Dette bildet, med statistikk over API-nivåene, genereres av Android Studio ved opprettelse av ny emulator.
 
 <br>
