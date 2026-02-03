@@ -31,12 +31,12 @@ Nå er du (forhåpentligvis) klar til å kjøre appen i en emulator i Android St
 
 Trykk <b>Build > Rebuild Project</b> fra menyen øverst:
 
-![Screenshot 2024-05-13 at 18 31 49](https://media.github.uio.no/user/9349/files/6a04ebea-e3ca-4e8a-800b-a0c79989daf5)
-
+![Hvordan bygge prosjektet på nytt](bilder_modellering/how_to_rebuild.png)
 
 Deretter kan applikasjonen kjøres ved å trykke <b>Run > Run 'app'</b> fra menyen øverst:
 
-![Screenshot 2024-05-13 at 18 33 42](https://media.github.uio.no/user/9349/files/66a36a57-45c9-48cd-a2c8-7db733a1cc87)
+![Hvordan bygge kjøre prosjektet](bilder_modellering/how_to_run.png)
+
 
 ### NB! Hvis Android Studio sier "SDK location not found" eller den ikke klarer å finne en fil 'local.properties', sørg for å klikke på "Sync Project with Gradle Files" først. Denne knappen kan du finne under 'File' i 'Main Menu', øverst i venstre hjørne.
 
@@ -46,7 +46,7 @@ For å utnytte all funksjonalitet i applikasjonen trenger man å gi enheten tilg
 Om du kjører applikasjonen på en emulator i Android Studio er det nødvendig å sette denne posisjonen manuelt. Det gjøres slik:
 
 0. Hold musepekeren over menyen i emulatorvinduet og trykk "Extended controls"-knappen som er helt til høyre:
-![Screenshot 2024-05-16 at 13 46 46](https://media.github.uio.no/user/9349/files/8eabc8c1-075e-4643-aacd-b60451597f58)
+![Hvordan åpne innstillinger](bilder_modellering/simulator_config_1.png)
 
 1. Da åpnes Extended controls-vinduet. Her velger du et sted i søkefeltet til kartet som inkluderes i dette vinduet (punkt 1. i bildet under).
 
@@ -57,7 +57,7 @@ Om du kjører applikasjonen på en emulator i Android Studio er det nødvendig �
 4. Til slutt sørger du for at det nye stedet er valgt (punkt 3. i bildet under), og trykker "set location" (punkt 4. i bildet under).
 
 6. Du har nå satt en posisjon til emulatoren, og kan lukke Extended Controls-vinduet og benytte appen som du ønsker!
-![Screenshot 2024-05-16 at 13 54 00](https://media.github.uio.no/user/9349/files/1d7f26aa-34ae-4240-a1da-6c5dc63ade64)
+![Hvordan stille inn koordinater](bilder_modellering/simulator_config_2.png)
 
 
 
