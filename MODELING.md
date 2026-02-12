@@ -30,7 +30,7 @@ De heltrukne linjene representerer avhengighetene mellom komponentene, men de st
  
 Appen følger en MVVM-arkitektur det data-laget og dommenelaget utgjør Modellen, mens ViewModel og View til sammen representerer UI-laget.
 
-![Havsus - arkitekturoverikt](![Forenklet arkitekturskisse](bilder_modellering/Forenklert%20arkitekturskisse.png)
+![Forenklet arkitekturskisse](bilder_modellering/Forenklert%20arkitekturskisse.png)
 
 
 For mer detaljert innsikt i klassenes innhold og avhengigheter se klassediagrammet «utvidet arkitekturoversikt» i neste avsnitt.
